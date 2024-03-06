@@ -2,7 +2,7 @@
 
 ## Description
 
-This challenge was meant to take code that was littered with <div> elements and repetative css styling agents and make it more understanding.
+This challenge was meant to take code that was littered with div elements and repetative css styling agents and make it more understanding.
 
 ## Usage
 
@@ -11,10 +11,10 @@ This challenge was meant to take code that was littered with <div> elements and 
 ## Screenshots
 
 HTML Refactored
-![](C:\Users\kylek\bootcamp\project-one\urban-octo-telegram\assets\images\HTML-Screenshot.png)
+![](https://github.com/TheKyleKirby/horiseon-refactor-mod1/blob/main/assets/images/HTML-Screenshot.png)
 
 CSS Refactored
-![](C:\Users\kylek\bootcamp\project-one\urban-octo-telegram\assets\images\CSS-Screenshot.png)
+![](https://github.com/TheKyleKirby/horiseon-refactor-mod1/blob/main/assets/images/CSS-Screenshot.png)
 
 Webpage of Reafactored
 
