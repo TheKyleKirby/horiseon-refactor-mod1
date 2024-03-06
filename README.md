@@ -11,8 +11,10 @@ This challenge was meant to take code that was littered with <div> elements and 
 ## Screenshots
 
 HTML Refactored
+![](C:\Users\kylek\bootcamp\project-one\urban-octo-telegram\assets\images\HTML-Screenshot.png)
 
 CSS Refactored
+![](C:\Users\kylek\bootcamp\project-one\urban-octo-telegram\assets\images\CSS-Screenshot.png)
 
 Webpage of Reafactored
 
