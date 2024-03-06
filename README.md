@@ -6,7 +6,7 @@ This challenge was meant to take code that was littered with div elements and re
 
 ## Usage
 
-[Click here for the deployed refactored webpage]
+[Click here for the deployed refactored webpage](https://thekylekirby.github.io/horiseon-refactor-mod1/)
 
 ## Screenshots
 
@@ -17,10 +17,10 @@ CSS Refactored
 ![](https://github.com/TheKyleKirby/horiseon-refactor-mod1/blob/main/assets/images/CSS-Screenshot.png)
 
 Webpage of Reafactored
-
+![]()
 ## Credits
 
-[Source Code]
+[Source Code](https://github.com/coding-boot-camp/urban-octo-telegram)
 
 ## License
 
